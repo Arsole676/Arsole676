@@ -19,6 +19,10 @@
 
 ---------------
 
+Copyright (c) Arsole676
+
+<br>
+
 <div align="middle">
     <a href="https://instagram.com/arsole676"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
 <a href="https://linkedin.com/in/arsole-cane-ab3779375"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
