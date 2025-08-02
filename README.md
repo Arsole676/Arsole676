@@ -12,9 +12,11 @@
 # 📊 GitHub Stats:
 <div align="middle">>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsole676&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-    <br>
+    
+<br>
     <img src="https://github-readme-stats.vercel.app/api?username=Arsole676&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" />
-    <br>
+
+<br>
     <img src="https://nirzak-streak-stats.vercel.app/?user=Arsole676&theme=dracula&hide_border=false" />
 </div>
 
