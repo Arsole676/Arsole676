@@ -1,5 +1,5 @@
 ![motd](https://github.com/Arsole676/Arsole676/blob/main/githubBackground.jpg)
-##🌐 Socials
+###🌐Socials
 <a href="https://instagram.com/arsole676"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
 <a href="https://linkedin.com/in/arsole-cane-ab3779375"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
 <a href="https://x.com/8BitCoder_Dev"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"/></a>
