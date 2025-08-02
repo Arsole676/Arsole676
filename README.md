@@ -19,7 +19,7 @@
 
 ---------------
 
-Copyright (c) Arsole676
+<p align="middle">Copyright (c) Arsole676</p>
 
 <br>
 
