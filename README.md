@@ -17,6 +17,7 @@
     <img src="https://nirzak-streak-stats.vercel.app/?user=Arsole676&theme=dracula&hide_border=false" />
 </div>
 
+---------------
 
 <div align="middle">
     <a href="https://instagram.com/arsole676"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
