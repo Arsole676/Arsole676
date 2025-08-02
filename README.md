@@ -1,6 +1,12 @@
 ![motd](https://github.com/Arsole676/Arsole676/blob/main/githubBackground.jpg)
-
-## 🌐 Socials:
+| 🌐 Socials | 📊 Languages used |
+|<div>
+    <a href="https://instagram.com/arsole676"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a><br>
+    <a href="https://linkedin.com/in/arsole-cane-ab3779375"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a><br>
+    <a href="https://x.com/8BitCoder_Dev"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"/></a><br>
+    <a href="mailto:arsole676@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
+  </div>||
+## :
 <div align="middle">
   <div>
     <a href="https://instagram.com/arsole676"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a><br>
