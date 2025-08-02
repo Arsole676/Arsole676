@@ -1,16 +1,15 @@
 ![motd](https://github.com/Arsole676/Arsole676/blob/main/githubBackground.jpg)
 
 ## 🌐 Socials:
-<div style="display: flex-row;">
+<div style="display:flex;">
   <div>
-    <a href="https://instagram.com/arsole676"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
-    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arsole676) <br> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arsole-cane-ab3779375) <br> [![Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/8BitCoder_Dev) <br> [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arsole676@gmail.com)
+    <a href="https://instagram.com/arsole676"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a><br>
+    <a href="https://linkedin.com/in/arsole-cane-ab3779375"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a><br>
+    <a href="https://x.com/8BitCoder_Dev"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"/></a><br>
+    <a href="mailto:arsole676@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
   </div>
   <div>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsole676&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsole676&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
   </div>
 </div>
 
