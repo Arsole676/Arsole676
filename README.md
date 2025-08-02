@@ -1,7 +1,7 @@
 ![motd](https://github.com/Arsole676/Arsole676/blob/main/githubBackground.jpg)
 
 ## 🌐 Socials:
-<div style="display:flex;">
+<div align="left;">
   <div>
     <a href="https://instagram.com/arsole676"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a><br>
     <a href="https://linkedin.com/in/arsole-cane-ab3779375"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a><br>
