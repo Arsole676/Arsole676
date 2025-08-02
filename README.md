@@ -1,11 +1,5 @@
 ![motd](https://github.com/Arsole676/Arsole676/blob/main/githubBackground.jpg)
 
-🌐My Socials:
-<a href="https://instagram.com/arsole676"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
-<a href="https://linkedin.com/in/arsole-cane-ab3779375"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
-<a href="https://x.com/8BitCoder_Dev"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"/></a>
-<a href="mailto:arsole676@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
-
 ## 💻 Tech Stack:
 
 <div align="center">
@@ -21,4 +15,12 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Arsole676&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" />
 <br>
     <img src="https://nirzak-streak-stats.vercel.app/?user=Arsole676&theme=dracula&hide_border=false" />
+</div>
+
+
+<div align="middle">
+    <a href="https://instagram.com/arsole676"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/arsole-cane-ab3779375"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/8BitCoder_Dev"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"/></a>
+<a href="mailto:arsole676@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
 </div>
