@@ -22,7 +22,7 @@
 ## 🧩 Projects
 
 <div align="middle">
-    <a href="https://github.com/Arsole676/new-portfolio"><img src="https://github.com/Arsole676/Arsole676/blob/main/MyPortfolio.png" width="400" height="200" /></a>
+    <a href="https://github.com/Arsole676/new-portfolio"><img src="https://github.com/Arsole676/Arsole676/blob/main/MYPortfolioImage.png" width="400" height="200" /></a>
     <a href="https://github.com/Arsole676/PravithBA"><img src="https://github.com/Arsole676/Arsole676/blob/main/PravithBA.png" width="400" height="200"/></a>
     <a href="https://github.com/Alphine-dev/Awesome"><img src="https://github.com/Arsole676/Arsole676/blob/main/Awesome.png" width="400" height="200" /></a>
     <a href="https://github.com/Basic-Js"><img src="https://github.com/Arsole676/Arsole676/blob/main/template.png" width="400" height="200" /></a>
